@@ -1,2 +1,6 @@
 # Moving-Companion-App
-AJAX
+It can help people find related information about the palce they want to live such as the street view, stories on NY Times paper and wikipedia, using AJAX.
+Thanks to:
+- Google Map API
+- New York Times API
+- Wikipedia API
