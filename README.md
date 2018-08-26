@@ -6,7 +6,7 @@ Thanks to:
 - Wikipedia API
 
 For example, type in the street and city you want to live in, you can find the corresponding info.
-## Ellendale Place, Los angeles, CA
+## Ellendale Place, Los Angeles, CA
 <img src="https://github.com/yuxuanchou999/Moving-Companion-App/blob/master/screenshots/Ellendale%20Pl.png">
 
 ## Chelsea Park, New York, NY
