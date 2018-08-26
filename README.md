@@ -7,12 +7,12 @@ Thanks to:
 
 For example, type in the street and city you want to live in, you can find the corresponding info.
 ## Ellendale Place, Los angeles, CA
-<img src="">
+<img src="https://github.com/yuxuanchou999/Moving-Companion-App/blob/master/screenshots/Ellendale%20Pl.png">
 
 ## Chelsea Park, New York, NY
 <img src="https://github.com/yuxuanchou999/Moving-Companion-App/blob/master/screenshots/Chelsea%20Park.png">
 
 ## Palisades Park, Santa Monica, CA
-<img src="">
+<img src="https://github.com/yuxuanchou999/Moving-Companion-App/blob/master/screenshots/Santa%20Monica.png">
 
 Open index.html in your browser and you can enjoy it!
